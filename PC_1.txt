@@ -1,1 +1,2 @@
 Preparing for the git tutorial.
+changed the file type
